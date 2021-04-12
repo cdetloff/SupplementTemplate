@@ -1,0 +1,8 @@
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\bin\Debug\netcoreapp3.1\SupplementCatalog.Models.deps.json
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\bin\Debug\netcoreapp3.1\SupplementCatalog.Models.dll
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\bin\Debug\netcoreapp3.1\SupplementCatalog.Models.pdb
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\obj\Debug\netcoreapp3.1\SupplementCatalog.Models.AssemblyInfoInputs.cache
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\obj\Debug\netcoreapp3.1\SupplementCatalog.Models.AssemblyInfo.cs
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\obj\Debug\netcoreapp3.1\SupplementCatalog.Models.csproj.CoreCompileInputs.cache
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\obj\Debug\netcoreapp3.1\SupplementCatalog.Models.dll
+C:\Users\chito\source\repos\BlazorHelloWorld\SupplementCatalog.Models\obj\Debug\netcoreapp3.1\SupplementCatalog.Models.pdb
