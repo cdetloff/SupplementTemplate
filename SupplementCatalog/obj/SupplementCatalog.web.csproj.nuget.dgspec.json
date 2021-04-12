@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog\\SupplementCatalog.web.csproj": {}
+    "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog\\SupplementCatalog.web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj": {
+    "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
+        "projectUniqueName": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
         "projectName": "SupplementCatalog.Models",
-        "projectPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
+        "projectPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
         "packagesPath": "C:\\Users\\chito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\obj\\",
+        "outputPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chito\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog\\SupplementCatalog.web.csproj": {
+    "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog\\SupplementCatalog.web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog\\SupplementCatalog.web.csproj",
+        "projectUniqueName": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog\\SupplementCatalog.web.csproj",
         "projectName": "SupplementCatalog.web",
-        "projectPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog\\SupplementCatalog.web.csproj",
+        "projectPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog\\SupplementCatalog.web.csproj",
         "packagesPath": "C:\\Users\\chito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog\\obj\\",
+        "outputPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chito\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,8 +79,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj": {
-                "projectPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj"
+              "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj": {
+                "projectPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj"
               }
             }
           }

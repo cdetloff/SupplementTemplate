@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "reioZFJGaJmEwACHTpUcnckWCjJWhvgPsSWoRr3d85tRqbinH0Kv40RJ16GXhc6JIrkUJwftoVsE5dwAFHjIqg==",
+  "dgSpecHash": "eIRIWFk4x6oLAD+uZuwyu7DRp81oatEpyVlmInGPEQGrlXFUgv9kP+fngrUsSBqWhL67TqLxBBA+riJ3FH3gsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog\\SupplementCatalog.web.csproj",
+  "projectFilePath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog\\SupplementCatalog.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chito\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\chito\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

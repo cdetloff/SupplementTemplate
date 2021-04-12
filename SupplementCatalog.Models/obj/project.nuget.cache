@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DmkEx9aEEyIwrg3Og/NAXuWsRw9Y46rNZYpK0e+N0z64iZaeD1F8Knsgh4JHy6iezPqn3PDMZhYre7rW0R4K8g==",
+  "dgSpecHash": "ARried3J+fv80DCZIB/np9OuR2FzbpYOWnNWnsEYA1me/BEsLYqd97UQMOFqjlG9jIlkH78sLl5b1kS5K1vk8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
+  "projectFilePath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

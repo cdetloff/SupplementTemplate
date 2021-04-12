@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
+      "projectUniqueName": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
       "projectName": "SupplementCatalog.Models",
-      "projectPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
+      "projectPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\SupplementCatalog.Models.csproj",
       "packagesPath": "C:\\Users\\chito\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chito\\source\\repos\\BlazorHelloWorld\\SupplementCatalog.Models\\obj\\",
+      "outputPath": "C:\\Users\\chito\\Source\\Repos\\SupplementTemplate\\SupplementCatalog.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chito\\AppData\\Roaming\\NuGet\\NuGet.Config",
